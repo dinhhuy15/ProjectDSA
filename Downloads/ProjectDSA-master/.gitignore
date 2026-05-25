@@ -1,0 +1,14 @@
+# Compiled Java bytecode
+Chess game/bin/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.classpath
+*.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
